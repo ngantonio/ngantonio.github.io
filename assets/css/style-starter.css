@@ -10410,7 +10410,7 @@ h4.sub-title {
 
 .w3l-main-banner h3.banner-text {
   font-weight: 400;
-  font-size: 56px;
+  font-size: 40px;
   line-height: 65px;
   color: #fff; }
 
@@ -10454,7 +10454,9 @@ h4.sub-title {
 
 .w3l-main-banner .banner-info img {
   border: 4px solid #fff;
-  border-radius: 50%; }
+  border-radius: 50%;
+  width: 200px; 
+}
 
 @media (max-width: 992px) {
   .w3l-main-banner h3.gallery4-head {
@@ -11006,7 +11008,6 @@ body:after {
 
 .services-12 .grid-column-2 {
   grid-template-columns: 1fr 1fr;
-  align-items: center;
   grid-column-gap: 90px; }
 
 .services-12 .tagline {
